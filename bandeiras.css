@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 350px;
+}
+
+h1{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
+#vermelha,#amarela,#verde,#azul,#preta,#pretaelaranja,#branca, #pretaebranca, #quadriculada, img{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#vermelha>p{
+    border-radius: 20px;
+    background-color:#ed2c20;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+
+#amarela>p{
+    border-radius: 20px;
+    background-color: #fef100;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+
+#verde>p{
+    border-radius: 20px;
+    background-color: #48af21;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+
+#azul>p{
+    border-radius: 20px;
+    background-color: #31bedc;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+
+#preta>p{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+
+#pretaelaranja>p{
+    border-radius: 20px;
+    background-color:#f97028;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+}
+
+#branca>p{
+    border-radius: 20px;
+    background-color:white;
+    border: solid;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+
+}
+
+#pretaebranca>p{
+    border-radius: 20px;
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+
+}
+
+#quadriculada>p{
+    border-radius: 20px;
+    border: dashed;
+    background-color:white;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 19px;
+
+}

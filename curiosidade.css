@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+/*estilizando as imagens da direita*/
+.direita{
+   color: #A61103;
+    background-color: #F2CB05;
+    text-align: right;
+    padding: 15px;
+    font-size: 19px;
+    text-indent: 15px;
+   
+}
+/*estlizando todas a tags <p>*/
+ p{
+    text-indent: 0px;
+    text-align:justify;
+    font-size: 18px;
+    border-color: white;
+    margin: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*estilizando as bordas das imagens da direita*/
+.direita>img{
+    border-radius: 125px 15px;
+}
+
+/*estilizando as bordas das imagens da esquerda*/
+.esquerda>img{
+    border-radius: 125px 15px;
+}
+
+/*estilizando as imagem com a tag <figure>*/
+.direita>figure, img{
+    border-radius: 125px 15px;
+}
+/*estilizando as imagens da esquerda*/
+.esquerda{
+    color: #F2CB05;
+    background-color:#A61103;
+    text-align: left;
+    padding: 15px;
+    font-size: 19px;
+    text-indent: 15px;
+}
+
+figcaption{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#redbull>img{
+    border-radius: 125px 15px;
+    height: 450px;
+    width: 730px;   
+}
+    

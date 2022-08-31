@@ -1,0 +1,131 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#titulo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#0f0f0f;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+ul li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style: none;
+    text-align: center;
+    color: white;
+    font-size: 19px;
+    padding: 8px 8px 9px;
+
+}
+
+#alfa{
+    background-color: #A61103;    
+}
+
+#alfa>.imagem{
+    display: flex;
+    width: 150px;
+    height: 230px;
+    text-align: center;
+}
+
+#tauri{
+    background-color: #A3B4BF;
+}
+#tauri>.imagem{
+    display: flex;
+    width: 150px;
+    height: 230px;
+    padding-right: 25px;  
+  padding-left:2px ;
+}
+
+#alpine>.imagem{
+    display: flex;
+    width: 150px;
+    height: 150px; 
+    padding-right: 230px; 
+
+
+}
+ul.texto>li{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#aston{
+    background-color: #097968;
+}
+
+#aston>.imagem{
+    display: flex;
+    width: 250px;
+    height: 210px; 
+    padding-left: 10px;
+}
+
+#ferrari{
+    background-color: red;
+}
+
+#ferrari>.imagem{
+    display: flex;
+    width: 250px;
+    height: 210px; 
+    padding-left: 10px;
+}
+
+#haas{
+    background-color: black;
+}
+#haas>.imagem{
+    display: flex;
+    width: 250px;
+    height: 210px; 
+    padding-left: 10px;
+}
+
+#mercedes{
+    background-color: #A3B4BF;
+}
+
+#mercedes>.imagem{
+    display: flex;
+    width: 250px;
+    height: 210px; 
+    padding-left: 10px;
+}
+
+#mclaren{
+    background-color: orange;
+}
+#mclaren>.imagem{
+    display: flex;
+    width: 250px;
+    height: 250px; 
+}
+
+#redbull{
+    background-color: #001e49;
+}
+#redbull>.imagem{
+    display: flex;
+    width: 230px;
+    height: 230px; 
+}
+
+#willians>.imagem{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    padding-right: 25px; 
+}
+
+
+
+
+

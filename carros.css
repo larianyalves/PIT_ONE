@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    padding: 9px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    padding: 3px;
+
+}
+
+ol,li{
+    padding: 7px;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+html, body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+.conteudo{
+    padding: 75px;
+}
+   
+#alfaromeo{
+   display: flex;
+   width: 630px;
+   height: 380px;
+}
+#alphatauri{
+    display: flex;
+    width: 530px;
+    height: 435px;
+}
+
+#alpine{
+    display: flex;
+    width: 440px;
+    height: 383px;
+}
+
+#astonmartin{
+    display: flex;
+    width: 400px;
+    height: 326px;
+}
+
+#ferrari{
+    display: flex;
+    width: 630px;
+    height: 387px;
+}
+
+#haas{
+    display: flex;
+    width: 630px;
+    height: 415.2px;
+}
+
+#mclaren{
+    display: flex;
+    width: 400px;
+    height: 383px;
+}
+
+#mercedes{
+    display: flex;
+    width: 500px;
+    height: 288px;
+}
+
+#redbull{
+    display: flex;
+    width: 500px;
+    height: 383px;
+}
+
+#willians{
+    display: flex;
+    width: 500px;
+    height: 605.3px;
+}
